@@ -359,6 +359,15 @@
 .footer-copy{
     color: #969292;
 }
+.button:hover{
+   transform: rotate(7deg) scale(1.0);
+}
+.hero-buttons .spotify:hover{
+    transform: rotate(7deg) scale(1.0);
+}
+.hero-container .subscribe:hover{
+    transform: rotate(7deg) scale(1.0);
+}
 
 @media screen and (max-width:576px){
     .navbar{
