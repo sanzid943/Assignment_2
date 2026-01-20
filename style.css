@@ -173,3 +173,40 @@
 .podcast-number-card p{
     color: #969292;
 }
+.choose{
+    border-top: 1px solid #230E3D;
+    height: 1000px;
+    background-color: #230E3D;
+}
+.choose-title{
+    max-width: 1200px;
+    margin: 90px auto;
+}
+.choose-title h2{
+    color: #FFFFFF;
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+}
+.choose-container{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3,220px);
+    gap: 20px;
+}
+.box{
+    background-color: #351165;
+    border-radius: 40px;
+    padding: 40px;
+}
+.box h3{
+    margin: 16px 0;
+    color: #FFFFFF;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.box p{
+    color: #969292;
+}
