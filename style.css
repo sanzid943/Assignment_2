@@ -41,7 +41,6 @@
     background: linear-gradient(#F7E93F, #FB09B4, #9100F8);
     border: none;
 }
-
 .hamburger{
     display: none;
 }
@@ -115,7 +114,6 @@
      cursor: pointer;
      font-weight: 600;
 }
-
 .hero-container .subscribe{
     background: transparent;
     color: #00FF88;
@@ -125,7 +123,6 @@
     cursor: pointer;
     font-weight: 600;
 }
-
 .podcast{
     border-top: 1px solid #1A0B2E;
     background-color: #1A0B2E;
@@ -463,16 +460,13 @@
         padding: 25px;
         border-radius: 25px;
     }
-
     .box img {
         width: 50px;
         height: auto;
     }
-
     .box h3 {
         font-size: 1.25rem;
     }
-
     .box p {
         font-size: 0.9rem;
         line-height: 1.6;
